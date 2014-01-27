@@ -36,6 +36,6 @@ servir de ayuda a los desarrolladores, especialmente noveles, para entender de q
 
 
 ###Licencia:
-En el repositorio se incluye un archivo [LICENSE](license.md) que da información detallada sobre la licencia GPL v3 bajo la 
+En el repositorio se incluye un archivo [LICENSE](LICENSE) que da información detallada sobre la licencia GPL v3 bajo la 
 que se encuentra licenciado este glosario.
 
