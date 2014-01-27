@@ -4,12 +4,12 @@ Glosario del desarrollador
 La idea es tener un repositorio comunitario de términos que manejamos como desarrolladores
 en el día a día, mantenido por la comunidad.
 
-#Cómo consultar:
+##Cómo consultar:
 El glosario se divide en secciones por archivos según la temática, control de versiones, 
 arquitectura de software, lenguajes...etc.
 Todos los apartados se listan en el archivo principal del repositorio, enlazados a sus correspondientes archivos.
 
-#Cómo contribuir:
+##Cómo contribuir:
 Sencillo, solo tienes que hacer un Fork del repositorio, añadir términos y hacer un Pull Request.
 Tan pronto como sea aceptado, quedará incluido en el repositorio para consulta de todos los demás
 y se te añadirá al listado de contribuidores.
@@ -32,10 +32,10 @@ servir de ayuda a los desarrolladores, especialmente noveles, para entender de q
 
 
 
-#Contribuidores
+##Contribuidores
 
 
-#Licencia:
+###Licencia:
 En el repositorio se incluye un archivo [LICENSE](license.md) que da información detallada sobre la licencia GPL v3 bajo la 
 que se encuentra licenciado este glosario.
 
